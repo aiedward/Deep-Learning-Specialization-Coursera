@@ -1,6 +1,5 @@
 # Deep-Learning-Specialization-Coursera
 
-
 ## Cource 1 - Neural Networks and Deep Learning ([link](https://www.coursera.org/learn/neural-networks-deep-learning))
 
   * Week 1  /no programming assignments/
@@ -29,4 +28,4 @@
   
 ## Course 5 - Sequence Models ([link](https://www.coursera.org/learn/nlp-sequence-models))
 
-    /not released yet/
+  * /not released yet/
