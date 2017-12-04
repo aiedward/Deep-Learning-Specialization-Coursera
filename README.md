@@ -24,7 +24,7 @@
   * [Week 1] Foundations of Convolutional Neural Networks. [Programming assignments](https://github.com/km1414/Deep-Learning-Specialization-Coursera/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%201)
   * [Week 2] Deep convolutional models: case studies. [Programming assignments](https://github.com/km1414/Deep-Learning-Specialization-Coursera/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%202)
   * [Week 3] Object detection. [Programming assignments](https://github.com/km1414/Deep-Learning-Specialization-Coursera/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%203)
-  * [Week 4] /not finished  yet/
+  * [Week 4] Special applications: Face recognition & Neural style transfer. [Programming assignments](https://github.com/km1414/Deep-Learning-Specialization-Coursera/tree/master/Course%204%20-%20Convolutional%20Neural%20Networks/Week%204)
   
 ## Course 5 - Sequence Models ([Coursera link](https://www.coursera.org/learn/nlp-sequence-models))
 
